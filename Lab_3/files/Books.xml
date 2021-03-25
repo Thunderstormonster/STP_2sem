@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<books>
+ <Book
+ uid = "1233" higth = "40" length = "70.6 " weith = "37000"
+rang = "12500" max_speed = "950" count_passangers = "436" model = 
+"boing">
+  <author>Эрагон</author>
+  <name>Кристофер Паулини</name>
+  <year>2009</year>
+  <edition>22000</edition>
+  <cost>20</cost>
+ </Book>
+</books>

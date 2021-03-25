@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="15.0.2" class="java.beans.XMLDecoder">
+ <object class="by.Kachanova.bookshop.books.Book" id="Book0">
+  <void class="by.Kachanova.bookshop.publishing.Publishing" method="getField">
+   <string>author</string>
+   <void method="set">
+    <object idref="Book0"/>
+    <string>Эрагон</string>
+   </void>
+  </void>
+  <void class="by.Kachanova.bookshop.publishing.Publishing" method="getField">
+   <string>name</string>
+   <void method="set">
+    <object idref="Book0"/>
+    <string>Кристофер Паулини</string>
+   </void>
+  </void>
+  <void class="by.Kachanova.bookshop.publishing.Publishing" method="getField">
+   <string>year</string>
+   <void method="set">
+    <object idref="Book0"/>
+    <int>2009</int>
+   </void>
+  </void>
+  <void class="by.Kachanova.bookshop.publishing.Publishing" method="getField">
+   <string>edition</string>
+   <void method="set">
+    <object idref="Book0"/>
+    <int>22000</int>
+   </void>
+  </void>
+  <void class="by.Kachanova.bookshop.publishing.Publishing" method="getField">
+   <string>cost</string>
+   <void method="set">
+    <object idref="Book0"/>
+    <int>20</int>
+   </void>
+  </void>
+ </object>
+</java>
